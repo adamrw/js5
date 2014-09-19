@@ -1,13 +1,15 @@
 body {
-	background-color: #D9EDF7;
+	background-color: #4C6D6D;
+	font-family: sans-serif;
 }
 
 .main-container {
-	border: 2px solid #31708F;
+	border: 5px solid #9DB994;
 	border-radius: 10px;
 	margin-right: 20px;
 	margin-left: 20px;
 	margin-top: 20px;
+	box-shadow: #B4B5B5 20px 20px 20px;
 }
 
 fieldset {
@@ -29,10 +31,11 @@ legend {
 
 h1 {
 	margin-left: 58px;
-	color: #4e4e4e;
+	color: #75808F;
+	font-weight: bolder;
 }
 
 p {
 	margin-left: 58px;
-	color: #9B9999;
+	color: #A3AE79;
 }
